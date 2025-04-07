@@ -1,0 +1,42 @@
+[submodule ".vim/pack/myplugins/opt/ale"]
+	path = .vim/pack/myplugins/opt/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule ".vim/pack/myplugins/opt/Alduin"]
+	path = .vim/pack/myplugins/opt/Alduin
+	url = https://github.com/AlessandroYorba/Alduin.git
+[submodule ".vim/pack/myplugins/opt/auto-pairs"]
+	path = .vim/pack/myplugins/opt/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule ".vim/pack/myplugins/opt/lightline"]
+	path = .vim/pack/myplugins/opt/lightline
+	url = https://github.com/itchyny/lightline.vim.git
+[submodule ".vim/pack/myplugins/opt/lsp"]
+	path = .vim/pack/myplugins/opt/lsp
+	url = https://github.com/yegappan/lsp.git
+[submodule ".vim/pack/myplugins/opt/markdown-preview"]
+	path = .vim/pack/myplugins/opt/markdown-preview
+	url = https://github.com/iamcco/markdown-preview.nvim.git
+[submodule ".vim/pack/myplugins/opt/markdownviewer"]
+	path = .vim/pack/myplugins/opt/markdownviewer
+	url = https://github.com/instant-markdown/vim-instant-markdown.git
+[submodule ".vim/pack/myplugins/opt/minimap.vim"]
+	path = .vim/pack/myplugins/opt/minimap.vim
+	url = https://github.com/wfxr/minimap.vim.git
+[submodule ".vim/pack/myplugins/opt/nerdtree"]
+	path = .vim/pack/myplugins/opt/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule ".vim/pack/myplugins/opt/vim-autoformat"]
+	path = .vim/pack/myplugins/opt/vim-autoformat
+	url = https://github.com/vim-autoformat/vim-autoformat.git
+[submodule ".vim/pack/myplugins/opt/vimcomplete"]
+	path = .vim/pack/myplugins/opt/vimcomplete
+	url = https://github.com/girishji/vimcomplete.git
+[submodule ".vim/pack/myplugins/opt/vim-devicons"]
+	path = .vim/pack/myplugins/opt/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons.git
+[submodule ".vim/pack/myplugins/opt/vim-doge"]
+	path = .vim/pack/myplugins/opt/vim-doge
+	url = https://github.com/kkoomen/vim-doge.git
+[submodule ".vim/pack/myplugins/opt/vim-smooth-scroll"]
+	path = .vim/pack/myplugins/opt/vim-smooth-scroll
+	url = https://github.com/terryma/vim-smooth-scroll.git
